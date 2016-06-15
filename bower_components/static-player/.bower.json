@@ -1,0 +1,39 @@
+{
+  "name": "static-player",
+  "authors": [
+    "abusedmedia <ff@todo.to.it>"
+  ],
+  "description": "Simple static site generator that run in browser first then can bake files for server",
+  "main": "static-player.js",
+  "moduleType": [],
+  "keywords": [
+    "static",
+    "site",
+    "generator"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/abusedmedia/static-player",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "lodash": "^4.13.1"
+  },
+  "version": "0.0.5",
+  "_release": "0.0.5",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.5",
+    "commit": "5b53c54af32f728c52083c9cffd53d1712e8b84f"
+  },
+  "_source": "https://github.com/abusedmedia/static-player.git",
+  "_target": "^0.0.5",
+  "_originalSource": "static-player",
+  "_direct": true
+}
