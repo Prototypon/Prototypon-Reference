@@ -1,6 +1,6 @@
 {
   "name": "prototypon_reference",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {},
   "scripts": {
     "build": "npm version patch && git push && git push -f origin master:gh-pages"
