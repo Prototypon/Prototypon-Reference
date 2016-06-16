@@ -1,6 +1,8 @@
-# Prototypon Reference
+# Prototypon Metodology Reference
 
 
-To patch the version, push on master then push on gh-pages
+To publish an update, do the following command:
 
 	npm run build
+    
+to patch the version, push on master then push on gh-pages to browse live [here](http://prototypon.github.io/Prototypon-Reference/)
